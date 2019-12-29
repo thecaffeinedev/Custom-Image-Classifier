@@ -14,4 +14,6 @@ Below are some image inference results you can see :
 
 ![](results/2-guitar.png)
 
-You can check more results files in results folder. 
+You can check more results files in results folder.
+
+If you have any questions, recommendations or critiques, I can be reached via [Twitter](https://twitter.com/thecaffeinedev) or via my [mail](mailto:prabhat1015@gmail.com). Feel free to reach out to me.
