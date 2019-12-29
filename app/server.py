@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = ''  # You can put your model URL. If it's too big
+export_file_url = 'https://drive.google.com/uc?export=download&id=1yctEfO7_nTZjvqsR61yp7ZL-0vfljcF3'  # You can put your model URL. If it's too big
 export_file_name = 'models/export.pkl'
 
 classes = ['book', 'guitar', 'earphones', 'watch']  # You can put your own classes here
